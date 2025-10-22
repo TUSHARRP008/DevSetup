@@ -1,5 +1,5 @@
 # DevSetup
 DevSetup scripts
 
->> Contents:
+>Contents:
         vimrc
