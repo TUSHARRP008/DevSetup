@@ -1,5 +1,6 @@
 # DevSetup
 DevSetup scripts
 
->Contents:
+Contents:
         vimrc
+        cscope_builder.sh
